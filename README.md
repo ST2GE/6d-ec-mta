@@ -26,6 +26,7 @@
 > ```
 > 
 > 5. apply and enjoy the game 😄
+
 ![inanis #1](https://raw.githubusercontent.com/ST2GE/6d-ec-mta/refs/heads/main/screenshots/ina.png)
 ![inanis #2](https://raw.githubusercontent.com/ST2GE/6d-ec-mta/refs/heads/main/screenshots/ina2.png)
 ![inanis #3](https://raw.githubusercontent.com/ST2GE/6d-ec-mta/refs/heads/main/screenshots/ina3.png)
